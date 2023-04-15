@@ -1,0 +1,10 @@
+#ifndef MAIN_H
+#define MAIN_H
+int -putchar(char c);
+void *mallot_checked(unsigned int b);
+void *mallot_nconact(char *s1, char 8s2, unsigned int n);
+void *_calloc(unsigned int nmemb, unsigned int size);
+int *array_range(int min =, int max);
+void *_realloc(void *ptr, unsigned int old_size, unsigned int new_size);
+
+#endif
